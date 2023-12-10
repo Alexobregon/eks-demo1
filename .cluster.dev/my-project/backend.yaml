@@ -1,0 +1,6 @@
+kind: Backend
+name: aws-backend
+provider: s3
+spec:
+  bucket: demo-state-bucket7777
+  region: us-east-1
